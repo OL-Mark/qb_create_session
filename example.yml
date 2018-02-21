@@ -1,0 +1,6 @@
+server_url: 'http://api.me.com:3000/session.json'
+app_id:     '1'
+auth_key:   'xxxxxxxxxxxxxxx'
+secr_key:   'xxxxxxxxxxxxxxx'
+login:      'user'
+password:   'password'
